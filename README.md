@@ -4,7 +4,11 @@ A passionate **College Student** deeply fascinated by programming and building c
 
 - ⚡ Big fan of **C** and **Kotlin**
 - 🛠 Exploring everything from low-level systems & embedded systems to cross-platform apps & game dev
-- 📬 Reach out to me: <a href="mailto:speechlessmatt@qq.com"><img src="https://img.shields.io/badge/Email-speechlessmatt%40qq.com-D14836?style=for-the-badge&logo=qq&logoColor=white" height="26" align="center"/></a>
+- 📬 Reach out to me:
+
+<a href="mailto:speechlessmatt@qq.com">
+<img src="https://img.shields.io/badge/Email-speechlessmatt%40qq.com-D14836?style=for-the-badge&logo=qq&logoColor=white" height="26" align="center"/>
+</a>
 
 ---
 
@@ -12,18 +16,8 @@ A passionate **College Student** deeply fascinated by programming and building c
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,java,go,python,androidstudio,flutter,godot,embedded,git,github,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,java,go,python,androidstudio,flutter,godot,git,github,vscode&perline=7" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpeechlessMatt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="SpeechlessMatt's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeechlessMatt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
