@@ -1,4 +1,4 @@
-# Hi there, I'm Czy_4201b 👋 <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30" />
+# Hi there, I'm Czy_4201b <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30" />
 
 A passionate **College Student** deeply fascinated by programming and building cool stuff.
 
