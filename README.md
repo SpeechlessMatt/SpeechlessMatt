@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Czy_4201b 👋 <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30" />
 
-<!--
-**SpeechlessMatt/SpeechlessMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **College Student** deeply fascinated by programming and building cool stuff.
 
-Here are some ideas to get you started:
+- ⚡ Big fan of **C** and **Kotlin**
+- 🛠 Exploring everything from low-level systems & embedded systems to cross-platform apps & game dev
+- 📬 Reach out to me: <a href="mailto:speechlessmatt@qq.com"><img src="https://img.shields.io/badge/Email-speechlessmatt%40qq.com-D14836?style=for-the-badge&logo=qq&logoColor=white" height="26" align="center"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,java,go,python,androidstudio,flutter,godot,embedded,git,github,vscode&perline=7" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SpeechlessMatt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="SpeechlessMatt's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeechlessMatt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+</p>
